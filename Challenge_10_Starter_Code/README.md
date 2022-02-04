@@ -6,7 +6,7 @@
 
 ## About This Program
 
-This program builds a financial database in order to determine the performance an ETF over a four year period (2016-2020) that include 4 stocks, GOST, GS, PYPL, and SQ. We will use Python, SQL, and Voila library to visualize the data and analyze the performance of these stocks.
+This program 
 
 ---
 
@@ -20,11 +20,9 @@ Pandas
 
 Jupyter Lab Notebooks
 
-PyViz
+Hvplot
 
-Voila
-
-SQLAlchemy
+SKlearn
 
 
 ---
@@ -38,20 +36,24 @@ Make sure to run the appropriate imports:
 
 `import hvplot.pandas`
 
-`import numpy as np`
+`from path import Path`
 
-`import sqlalchemy as sql`
+`from sklearn.cluster import KMeans`
 
-And make sure to install Voila:
+`from sklearn.decomposition import PCA`
 
-`pip install Voila`
+`from sklearn.preprocessing import StandardScaler`
+
+
+
+
 
 
 For more information about Pandas, click [here](https://pandas.pydata.org/)
 
 For more information about hvplot and geoviews, click [here](https://hvplot.holoviz.org/)
 
-For more information about Voila, click [here](https://voila-gallery.org/)
+For more information about SKlearn, click [here](https://scikit-learn.org/stable/)
 
 
 ---
