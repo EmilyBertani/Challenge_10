@@ -6,7 +6,7 @@
 
 ## About This Program
 
-This program uses Scikit Learn to apply unsupervised learning to cryptocurrency data. We will implement KMeans to help cluster the data for better visualization and compare with Principal Component Analysis, to help streamline the data. 
+This program uses Scikit Learn to apply unsupervised learning to cryptocurrency data. We will implement KMeans to help cluster the data for better visualization and compare with Principal Component Analysis to help streamline the data for better analysis and visualization. 
 
 ---
 
@@ -46,9 +46,6 @@ Make sure to run the appropriate imports:
 
 
 
-
-
-
 For more information about Pandas, click [here](https://pandas.pydata.org/)
 
 For more information about hvplot and geoviews, click [here](https://hvplot.holoviz.org/)
@@ -62,7 +59,7 @@ For more information about SKlearn, click [here](https://scikit-learn.org/stable
 ## Usage
 
 
-The following are images of the Elbow Curves and Scatter plot composits for both the original data and the PCA data:
+The following are images of the Elbow Curves and Scatter plot composites for both the original data and the PCA data:
 
 ![Composite Elbow Curve](https://github.com/EmilyBertani/Challenge_10/blob/main/Challenge_10_Starter_Code/Composite_Elbow_Curve.png)
 
