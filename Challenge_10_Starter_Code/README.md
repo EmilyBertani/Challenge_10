@@ -62,11 +62,11 @@ For more information about SKlearn, click [here](https://scikit-learn.org/stable
 ## Usage
 
 
-The following images can be seen when viewing this project in Voila:
+The following are images of the Elbow Curves and Scatter plot composits for both the original data and the PCA data:
 
-![PYPL Daily and Culum_Returns_Voila](https://github.com/EmilyBertani/Challenge_7/blob/main/PYPL_Daily_and_cumul_returns_Voila.png)
+![Composite Elbow Curve](https://github.com/EmilyBertani/Challenge_10/blob/main/Challenge_10_Starter_Code/Composite_Elbow_Curve.png)
 
-![ETF_Returns_Voila](https://github.com/EmilyBertani/Challenge_7/blob/main/ETF_returns_voila.png)
+![Composite Scatter Plot](https://github.com/EmilyBertani/Challenge_10/blob/main/Challenge_10_Starter_Code/Composite_Scatter_Plot.png)
 
 
 ---
