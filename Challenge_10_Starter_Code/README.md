@@ -1,4 +1,4 @@
-# Challenge_10 README
+## Challenge_10 README
 
 # Crypto Clustering
 
@@ -6,7 +6,7 @@
 
 ## About This Program
 
-This program 
+This program uses Scikit Learn to apply unsupervised learning to cryptocurrency data. We will implement KMeans to help cluster the data for better visualization and compare with Principal Component Analysis, to help streamline the data. 
 
 ---
 
