@@ -1,6 +1,4 @@
-## Challenge_10 README
-
-# Crypto Clustering
+# Crypto Clustering using Unsupervised Learning
 
 ---
 
